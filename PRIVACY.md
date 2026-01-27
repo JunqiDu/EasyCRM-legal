@@ -48,4 +48,4 @@ You may, subject to applicable laws:
 We may update this Privacy Policy from time to time. We will update the effective date when changes are made.
 
 ## 9. Contact
-If you have questions about this Privacy Policy, contact: dujunqi1996@gmail.com
+If you have questions about this Privacy Policy, contact: support@easycrmsoft.com
