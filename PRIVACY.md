@@ -2,7 +2,7 @@
 Effective date: 2026-01-26
 
 ## 1. Introduction
-This Privacy Policy describes how EasyCRM (“the App”) is provided by Joseph Du (“we,” “us,” or “our”). It applies to the use of the App and its features within the App.
+This Privacy Policy describes how ClientStack (“the App”) is provided by Joseph Du (“we,” “us,” or “our”). It applies to the use of the App and its features within the App.
 
 ## 2. Information We Collect
 We collect the following categories of information:
